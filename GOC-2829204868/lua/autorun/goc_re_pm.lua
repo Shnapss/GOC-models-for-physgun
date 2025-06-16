@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "XV Global Occult Coalition", "models/player/xuvon/xuvon_goc_re_base.mdl" )
